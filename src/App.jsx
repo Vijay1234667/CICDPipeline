@@ -1,11 +1,11 @@
-import React from 'react'
+import './App.css'
 
-const App = () => {
-  const 
+function App() {
+
   return (
     <>
-      <h6>Hello Vercel CI/CD!</h6>
-      <p>{undefinedVariable}</p> 
+    <h1>cicd pipeline</h1>
+    {undefined}
 
     </>
   )
